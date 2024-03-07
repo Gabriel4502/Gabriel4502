@@ -7,6 +7,8 @@
 Atualmente trabalho como entregador no ifood e estou em transição de carreira para a área de programação,
 e, estou estudando online através do programa Oracle Next Education.
 
+- 👯 Estou procurando colaborar em FrontEnd
+
 ## Ferramentas e tecnologias
 <div>
             
@@ -41,7 +43,6 @@ e, estou estudando online através do programa Oracle Next Education.
 - 🔎 FrontEnd com javaScrypt, html e css
 - 🔎 BackEnd com NodeJs e TypeScrypt.
 
-- 👯 Estou procurando colaborar em FrontEnd
 
   
 ## 📫 Como entrar em contato comigo
