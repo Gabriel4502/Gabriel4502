@@ -46,10 +46,9 @@ e, estou estudando online através do programa Oracle Next Education.
 
 <div>
 <a href="https://www.linkedin.com/in/gabriel-messias-dev/" target="blank">
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="90" height="40" />
 </a>
-
-<a href="https://www.instagram.com/gmdasilva47/" target=blank><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="40" height="40" > </a>
+<a href="https://www.instagram.com/gmdasilva47/" target=blank><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="90" height="40" > </a>
             
 </div>
 
