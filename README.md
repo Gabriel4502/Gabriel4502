@@ -44,10 +44,10 @@ e, estou estudando online através do programa Oracle Next Education.
   
 ## 📫 Como entrar em contato comigo
 
-<div>
+<div gap="20" >
 <a href="https://www.linkedin.com/in/gabriel-messias-dev/" target="blank">
             
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="120" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
           
 </a>
 <a href="https://www.instagram.com/gmdasilva47/" target=blank><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="120" height="40" > </a>
