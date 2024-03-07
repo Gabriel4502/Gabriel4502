@@ -37,7 +37,7 @@ e, estou estudando online através do programa Oracle Next Education.
 
           
 
-##Estou aprendendo 
+## Estou aprendendo 
 - 🔎 FrontEnd com javaScrypt, html e css. BackEnd com NodeJs e TypeScrypt.
 - 👯 Estou procurando colaborar em FrontEnd
 
