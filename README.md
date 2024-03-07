@@ -58,7 +58,7 @@ e, estou estudando online através do programa Oracle Next Education.
 <div>
 <a href="https://github.com/gabriel4502">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel4502&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel4502&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel4502&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true"/>
 </div>
 
 
