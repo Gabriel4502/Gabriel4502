@@ -8,7 +8,8 @@ Atualmente trabalho como entregador no ifood e estou em transição de carreira 
 e, estou estudando online através do programa Oracle Next Education.
 
 ## Ferramentas e tecnologias
-
+<div>
+            
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
             
@@ -17,10 +18,10 @@ e, estou estudando online através do programa Oracle Next Education.
             
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
 
-          
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+</div>
 
-          
+<div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
           
             
@@ -28,6 +29,10 @@ e, estou estudando online através do programa Oracle Next Education.
 
             
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40" />
+            
+</div>
+
+          
 
 
           
