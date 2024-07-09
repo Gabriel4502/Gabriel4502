@@ -44,9 +44,9 @@ e, estou estudando online através do programa Oracle Next Education.
           
 
 ## Estou aprendendo 
+- 🔎 BackEnd com Java e Spring boot.
 - 🔎 FrontEnd com javaScrypt, html e css
 - 🔎 BackEnd com NodeJs e TypeScrypt.
-- 🔎 BackEnd com Java e Spring.
 
   
 ## 📫 Como entrar em contato comigo
